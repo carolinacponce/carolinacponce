@@ -1,5 +1,5 @@
 ![Separador](/separador1.jpg)
-## :wave: **Hi, soy Caro**
+# :wave: **Hi, soy Caro**
 ### **En camino a ser Ingeniera en Sistemas  :computer:**
 :dizzy: Fui aprendiendo: 
  - C++
