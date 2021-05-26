@@ -9,5 +9,9 @@
  - CSS
  
  :sparkling_heart: Fundamentalista del Software Libre
+ 
+ :seedling: Vegetariana 
+ 
+ 
 
-
+![Separador](/separador1.jpg)
