@@ -1,8 +1,13 @@
-![Separador](/separador.jpg)
-# 👋 **Hi, soy Caro**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Separador](/separador1.jpg)
+## :wave: **Hi, soy Caro**
+### **En camino a ser Ingeniera en Sistemas  :computer:**
+:dizzy: Fui aprendiendo: 
+ - C++
+ - JAVA
+ - Python
+ - HTML
+ - CSS
+ 
+ :sparkling_heart: Fundamentalista del Software Libre
 
 
