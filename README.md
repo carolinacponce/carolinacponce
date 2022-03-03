@@ -1,6 +1,6 @@
 ![Separador](/separador1.jpg)
 # :wave: **Hi, soy Caro**
-### **En camino a ser Ingeniera en Sistemas  :computer:**
+### **En camino a ser experta en ciberseguridad :computer:**
 :dizzy: Fui aprendiendo: 
  - C++
  - JAVA
@@ -8,7 +8,7 @@
  - HTML
  - CSS
  
- :sparkling_heart: Fundamentalista del Software Libre
+ :sparkling_heart: Militante del Software Libre
  
  :seedling: Vegetariana 
  
